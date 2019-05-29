@@ -1,0 +1,15 @@
+.box{
+  padding: 12px;
+}
+.search{
+  height: 50px;
+}
+.ra{
+  line-height: 20px;
+}
+#sear{
+  vertical-align: middle;
+}
+th{
+  text-align: left;
+}
